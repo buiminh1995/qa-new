@@ -13,7 +13,7 @@ message.src = "qa.png";
 
 const player = {
   x: 1400,
-  y: window.innerHeight - 50,
+  y: window.Width - 50,
   width: 64,
   height: 64,
   frameX: 3,
